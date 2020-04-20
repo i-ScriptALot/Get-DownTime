@@ -1,2 +1,2 @@
 # Get-DownTime
-Calculate time a Windows device was down 
+Calculate the time a Windows device was down 
